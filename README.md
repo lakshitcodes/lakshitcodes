@@ -20,6 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshitcodes&show_icons=true&locale=en&layout=compact" alt="lakshitcodes" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/Cpp?username=lakshitcodes&show_icons=true&locale=en" alt="lakshitcodes" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshitcodes&show_icons=true&locale=en" alt="lakshitcodes" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshitcodes&" alt="lakshitcodes" /></p>
